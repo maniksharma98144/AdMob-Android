@@ -1,2 +1,2 @@
 # Adwords-Android
-Android Adwords Example
+Android AdMob Example
